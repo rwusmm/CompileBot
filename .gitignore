@@ -1,9 +1,10 @@
-# Dependencies
+# Will not go in the repo. you must do npm install manually
 node_modules/
 
-# Temporary files
+# TEMP FILES
 temp/
 
-# README (exclude existing)
-README.md
+# IGNORED FILES
+ 
 bot-backup.js
+package-lock.json
