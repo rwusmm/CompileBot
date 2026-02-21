@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Temporary files
+temp/
+
+# README (exclude existing)
+README.md
+bot-backup.js

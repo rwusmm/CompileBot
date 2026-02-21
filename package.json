@@ -1,0 +1,21 @@
+{
+  "name": "compilebot",
+  "version": "1.0.0",
+  "description": "A Discord bot that compiles and runs C code in isolated containers",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "screenshot-desktop": "^1.15.3"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "compiler",
+    "c"
+  ],
+  "author": "rwusmm",
+  "license": "gith7ub"
+}
